@@ -2,12 +2,11 @@ package week1.day1;
 
 public class FirstProgram {
 
-	
-public static void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	System.out.println("Welcome to Testleaf");
-	
-
+        String name="Shilpa";
+        System.out.println("My name is : "+name);
+        		
 	}
 
 }
